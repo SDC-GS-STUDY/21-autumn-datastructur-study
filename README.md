@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Data-Structure&fontAlign=70&fontAlignY=35&color=gradient)
 
-## 📣 소개 [LINK](마크다운 그림에 링크)
+## 📣 소개 [LINK](https://woolly-lavender-310.notion.site/C-743cb8a5eae34c9da5bafafbe80ea6d0)
 
 - 홍익대학교 게임학부 게임소프트웨어 전공생들이 만든 자료구조 스터디 Repo입니다.
 - 21년도 2학기 '자료구조' 수업을 듣고 '코딩테스트' 문제를 풀 수 있는 능력을 기르기 위한 스터디 입니다.
