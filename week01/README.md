@@ -1,4 +1,3 @@
-@@ -0,0 +1,65 @@
 <!-- tier 리스트 S -->
 
 [Unrated]: https://user-images.githubusercontent.com/33937365/126247607-85783912-c11a-4d50-ac36-8cc7dcb75cd2.png
