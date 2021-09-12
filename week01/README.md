@@ -43,21 +43,31 @@
 
 📌 소스파일 제목 양식 :  깃헙아이디\_문제번호.c  (예시:  yeram522_1000.c )
 
-| 사이트 | 번호  | 분류               | 문제                                                         | 답안 |
-| ------ | ----- | ------------------ | ------------------------------------------------------------ | ---- |
-| 백준   | 1000  | 수학,구현,사칙연산 | <sub>![Bronze5]</sub>  [A+B](https://www.acmicpc.net/problem/1000) |      |
-| 백준   | 2557  | 구현               | <sub>![Bronze5]</sub>   [Hello Wrold](https://www.acmicpc.net/problem/2557) |      |
-| 백준   | 10171 | 구현               | <sub>![Bronze5]</sub>    [고양이](https://www.acmicpc.net/problem/10171) |      |
-| 백준   | 10869 | 사칙연산           | <sub>![Bronze5]</sub>    [사칙연산](https://www.acmicpc.net/problem/10869) |      |
-| 백준   | 9498  | 구현               | <sub>![Bronze4]</sub>    [시험성적](https://www.acmicpc.net/problem/9498) |      |
-| 백준   | 2752  | 세수정렬           | <sub>![Bronze4 ]</sub>    [세수정렬](https://www.acmicpc.net/problem/2752) |      |
-| 백준   | 2753  | 수학,구현          | <sub>![Bronze4]</sub>    [윤년](https://www.acmicpc.net/problem/2753) |      |
-| 백준   | 2480  | 수학, 사칙연산     | <sub>![Bronze4] </sub>   [주사위의 세계](https://www.acmicpc.net/problem/2480) |      |
-| 백준   | 2490  | 구현               | <sub>![Bronze3] </sub>    [윷놀이](https://www.acmicpc.net/problem/2490) |      |
-| 백준   | 2438  | 구현               | <sub>![Bronze3] </sub>    [별 찍기-1](https://www.acmicpc.net/problem/2438) |      |
-| 백준   | 2440  | 구현               | <sub>![Bronze3] </sub>    [별 찍기-4](https://www.acmicpc.net/problem/2440) |      |
-| 백준   | 2443  | 구현               | <sub>![Bronze3] </sub>    [별 찍기-6](https://www.acmicpc.net/problem/2443) |      |
-| 백준   | 2576  | 구현               | <sub>![Bronze3] </sub>    [홀수](https://www.acmicpc.net/problem/2576) |      |
+| 필수 | 사이트 | 번호  | 분류               | 문제                                                         | 답안 |
+| ---- | ------ | ----- | ------------------ | ------------------------------------------------------------ | ---- |
+|      | 백준   | 1000  | 수학,구현,사칙연산 | <sub>![Bronze5]</sub>  [A+B](https://www.acmicpc.net/problem/1000) |      |
+|      | 백준   | 2557  | 구현               | <sub>![Bronze5]</sub>   [Hello World](https://www.acmicpc.net/problem/2557) |      |
+|      | 백준   | 10171 | 구현               | <sub>![Bronze5]</sub>    [고양이](https://www.acmicpc.net/problem/10171) |      |
+|      | 백준   | 10869 | 사칙연산           | <sub>![Bronze5]</sub>    [사칙연산](https://www.acmicpc.net/problem/10869) |      |
+| ✔    | 백준   | 9498  | 구현               | <sub>![Bronze4]</sub>    [시험성적](https://www.acmicpc.net/problem/9498) |      |
+|      | 백준   | 2752  | 세수정렬           | <sub>![Bronze4 ]</sub>    [세수정렬](https://www.acmicpc.net/problem/2752) |      |
+| ✔    | 백준   | 2753  | 수학,구현          | <sub>![Bronze4]</sub>    [윤년](https://www.acmicpc.net/problem/2753) |      |
+|      | 백준   | 2480  | 수학, 사칙연산     | <sub>![Bronze4] </sub>   [주사위의 세계](https://www.acmicpc.net/problem/2480) |      |
+| ✔    | 백준   | 2490  | 구현               | <sub>![Bronze3] </sub>    [윷놀이](https://www.acmicpc.net/problem/2490) |      |
+|      | 백준   | 2438  | 구현               | <sub>![Bronze3] </sub>    [별 찍기-1](https://www.acmicpc.net/problem/2438) |      |
+|      | 백준   | 2440  | 구현               | <sub>![Bronze3] </sub>    [별 찍기-4](https://www.acmicpc.net/problem/2440) |      |
+|      | 백준   | 2443  | 구현               | <sub>![Bronze3] </sub>    [별 찍기-6](https://www.acmicpc.net/problem/2443) |      |
+| ✔    | 백준   | 2576  | 구현               | <sub>![Bronze3] </sub>    [홀수](https://www.acmicpc.net/problem/2576) |      |
+
+
+
+
+
+📌과제검사
+
+| 이름 | 필기인증 | 연습문제 | 백준 | 출석 |
+| ---- | -------- | -------- | ---- | ---- |
+|      |          |          |      |      |
 
 
 
