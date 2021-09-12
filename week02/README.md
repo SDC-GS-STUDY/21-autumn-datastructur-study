@@ -1,3 +1,4 @@
+@@ -0,0 +1,65 @@
 <!-- tier 리스트 S -->
 
 [Unrated]: https://user-images.githubusercontent.com/33937365/126247607-85783912-c11a-4d50-ac36-8cc7dcb75cd2.png
@@ -33,31 +34,30 @@
 [Ruby1]: https://user-images.githubusercontent.com/33937365/126247660-8e0d236d-eaef-42b3-8983-28f9e6c94ff9.png
 <!-- tier 리스트 E -->
 
-# Week01
+# Week02
 
-2021.09.10~2021.09.17
+2021.09.13 ~ 2021.09.18
 
-✨ 기본 자료 구조: 배열과 포인터, 메모리 할당, 구조체의 배열, 문자와 문자열에 대한 기초 C문법을 복습힌다.
+✨ 기본적인 C언어 문법을 복습하고, 수학적 알고리즘을 사용해본다.
 
 
 
-📌 소스파일 제목 양식 :  깃헙아이디\_문제번호.c  (예시:  yeram522_1000.c )
+ 📌소스파일 제목 양식 :  깃헙아이디\_문제번호.c  (예시:  yeram522_1000.c )
 
-| 사이트 | 번호  | 분류               | 문제                                                         | 답안 |
-| ------ | ----- | ------------------ | ------------------------------------------------------------ | ---- |
-| 백준   | 1000  | 수학,구현,사칙연산 | <sub>![Bronze5]</sub>  [A+B](https://www.acmicpc.net/problem/1000) |      |
-| 백준   | 2557  | 구현               | <sub>![Bronze5]</sub>   [Hello Wrold](https://www.acmicpc.net/problem/2557) |      |
-| 백준   | 10171 | 구현               | <sub>![Bronze5]</sub>    [고양이](https://www.acmicpc.net/problem/10171) |      |
-| 백준   | 10869 | 사칙연산           | <sub>![Bronze5]</sub>    [사칙연산](https://www.acmicpc.net/problem/10869) |      |
-| 백준   | 9498  | 구현               | <sub>![Bronze4]</sub>    [시험성적](https://www.acmicpc.net/problem/9498) |      |
-| 백준   | 2752  | 세수정렬           | <sub>![Bronze4 ]</sub>    [세수정렬](https://www.acmicpc.net/problem/2752) |      |
-| 백준   | 2753  | 수학,구현          | <sub>![Bronze4]</sub>    [윤년](https://www.acmicpc.net/problem/2753) |      |
-| 백준   | 2480  | 수학, 사칙연산     | <sub>![Bronze4] </sub>   [주사위의 세계](https://www.acmicpc.net/problem/2480) |      |
-| 백준   | 2490  | 구현               | <sub>![Bronze3] </sub>    [윷놀이](https://www.acmicpc.net/problem/2490) |      |
-| 백준   | 2438  | 구현               | <sub>![Bronze3] </sub>    [별 찍기-1](https://www.acmicpc.net/problem/2438) |      |
-| 백준   | 2440  | 구현               | <sub>![Bronze3] </sub>    [별 찍기-4](https://www.acmicpc.net/problem/2440) |      |
-| 백준   | 2443  | 구현               | <sub>![Bronze3] </sub>    [별 찍기-6](https://www.acmicpc.net/problem/2443) |      |
-| 백준   | 2576  | 구현               | <sub>![Bronze3] </sub>    [홀수](https://www.acmicpc.net/problem/2576) |      |
+|      | 사이트 | 번호  | 분류                      | 문제                                                         | 답안 |
+| ---- | ------ | ----- | ------------------------- | ------------------------------------------------------------ | ---- |
+|      | 백준   | 2562  | 구현                      | <sub>![Bronze2]</sub>   [최댓값](https://www.acmicpc.net/problem/2562) |      |
+|      | 백준   | 1000  | 수학,구현,사칙연산        | <sub>![Bronze2]</sub>   [대표값2](https://www.acmicpc.net/problem/2587) |      |
+|      | 백준   | 2309  | 브루트포스 알고리즘, 정렬 | <sub>![Bronze2]</sub>  [일곱 난쟁이](https://www.acmicpc.net/problem/2309) |      |
+|      | 백준   | 10804 | 구현,문자열               | <sub>![Bronze2]</sub>   [카드 역배치](https://www.acmicpc.net/problem/10804) |      |
+| ✔    | 백준   | 10808 | 구현,문자열               | <sub>![Bronze2]</sub>   [알파벳 개수](https://www.acmicpc.net/problem/10808) |      |
+|      | 백준   | 10807 | 구현                      | <sub>![Bronze2]</sub>  [개수 세기](https://www.acmicpc.net/problem/10807) |      |
+|      | 백준   | 2577  | 수학, 사칙연산            | <sub>![Bronze2]</sub>  [숫자의 개수](https://www.acmicpc.net/problem/2577) |      |
+|      | 백준   | 11328 | 구현,문자열               | <sub>![Bronze2]</sub>   [Strfry](https://www.acmicpc.net/problem/11328) |      |
+|      | 백준   | 13300 | 수학, 구현                | <sub>![Bronze2] </sub>  [방 배정](https://www.acmicpc.net/problem/13300) |      |
+|      | 백준   | 1919  | 구현                      | <sub>![Bronze2] </sub>  [애너그램 만들기](https://www.acmicpc.net/problem/1919) |      |
+| ✔    | 백준   | 1475  | 구현                      | <sub>![Silver5] </sub> [방 번호](https://www.acmicpc.net/problem/1475) |      |
+| ✔    | 백준   | 3273  | 구현                      | <sub>![Silver3] </sub>  [두 수의 합](https://www.acmicpc.net/problem/3273) |      |
 
 
 
