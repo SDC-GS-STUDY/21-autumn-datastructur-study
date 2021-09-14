@@ -40,8 +40,6 @@
 ├─ 교재 및 부교재 참고자료
 ```
 
-
-
 ##  REFERENCE
 
 - https://github.com/SSAFY-CS-STUDY/Tech_interview
@@ -50,9 +48,11 @@
 
 ---
 
-## 💖 CONTRIBUTOR 💖
+## 💖 CONTRIBUTORS 💖
 
 <a href="https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SDC-GS-STUDY/21-autumn-datastructure-study" />
 </a>
+
+
 
