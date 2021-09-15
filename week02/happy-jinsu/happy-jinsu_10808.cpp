@@ -8,9 +8,9 @@ int main()
 	char word[100];
 
 	scanf("%s", word);
-	end = strlen(word);
+	end = strlen(word);                     //ë¬¸ìì—´ ê¸¸ì´ ê³„ì‚°
 	/*
-	for (i = 0; i < end; i++)               //µ¹¾Æ°¡´Â ¹æ¹ı
+	for (i = 0; i < end; i++)               //ëŒì•„ê°€ëŠ” ë°©ë²•
 	{
 		for (j = 'a'; j < 'z'; j++)
 		{
@@ -22,7 +22,7 @@ int main()
 	}
 	*/
 
-	for (i = 0; i < end; i++)                //(ÄÚµå °³¼±) °£´ÜÇÑ ¹æ¹ı
+	for (i = 0; i < end; i++)                //(ì½”ë“œ ê°œì„ ) ê°„ë‹¨í•œ ë°©ë²•
 	{
 		alphabet[ word[i] - 97 ]++;           
 	}
