@@ -50,21 +50,25 @@
 |      | 백준   | 2309  | <sub>![Bronze2]</sub>  [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_2309.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_2309.c) [수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/happy-jinsu/happy-jinsu_2309.cpp) |            |
 |      | 백준   | 10804 | <sub>![Bronze2]</sub>   [카드 역배치](https://www.acmicpc.net/problem/10804) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_10804.c) [예람 ](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_10804.c)[수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/happy-jinsu/happy-jinsu_10804.cpp) |            |
 | ✔    | 백준   | 10808 | <sub>![Bronze2]</sub>   [알파벳 개수](https://www.acmicpc.net/problem/10808) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_10808.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_10808.c) [수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/happy-jinsu/happy-jinsu_10808.cpp) |            |
-|      | 백준   | 10807 | <sub>![Bronze2]</sub>  [개수 세기](https://www.acmicpc.net/problem/10807) | [재혁 ](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_10807.c)[수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/happy-jinsu/happy-jinsu_10807.cpp) |            |
+|      | 백준   | 10807 | <sub>![Bronze2]</sub>  [개수 세기](https://www.acmicpc.net/problem/10807) | [재혁 ](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_10807.c)[수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/happy-jinsu/happy-jinsu_10807.cpp) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_10807.c) |            |
 |      | 백준   | 2577  | <sub>![Bronze2]</sub>  [숫자의 개수](https://www.acmicpc.net/problem/2577) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_2577.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_2577.c) [수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/happy-jinsu/happy-jinsu_2577.cpp) |            |
-|      | 백준   | 11328 | <sub>![Bronze2]</sub>   [Strfry](https://www.acmicpc.net/problem/11328) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_11328.c)[예람]() |            |
+|      | 백준   | 11328 | <sub>![Bronze2]</sub>   [Strfry](https://www.acmicpc.net/problem/11328) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_11328.c) [예람]() |            |
 |      | 백준   | 13300 | <sub>![Bronze2] </sub>  [방 배정](https://www.acmicpc.net/problem/13300) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_13300.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_11328.c) |            |
-|      | 백준   | 1919  | <sub>![Bronze2] </sub>  [애너그램 만들기](https://www.acmicpc.net/problem/1919) | [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_1919.c) |            |
-| ✔    | 백준   | 1475  | <sub>![Silver5] </sub> [방 번호](https://www.acmicpc.net/problem/1475) |                                                              |            |
-| ✔    | 백준   | 3273  | <sub>![Silver3] </sub>  [두 수의 합](https://www.acmicpc.net/problem/3273) |                                                              |            |
+|      | 백준   | 1919  | <sub>![Bronze2] </sub>  [애너그램 만들기](https://www.acmicpc.net/problem/1919) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_1919.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_1919.c) |            |
+| ✔    | 백준   | 1475  | <sub>![Silver5] </sub> [방 번호](https://www.acmicpc.net/problem/1475) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_1475.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_1475.c) |            |
+| ✔    | 백준   | 3273  | <sub>![Silver3] </sub>  [두 수의 합](https://www.acmicpc.net/problem/3273) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/limjh1/limjh1_3273.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week02/Yeram522/yeram522_3273.c) |            |
 
 
 
 📌과제현황
 
-| 이름 | 필기인증 | 연습문제 | 백준 | 출석 |
-| ---- | -------- | -------- | ---- | ---- |
-|      |          |          |      |      |
+| 이름        | 필기인증 | 연습문제 | 백준 | 출석 |
+| ----------- | -------- | -------- | ---- | ---- |
+| Yeram522    | ✔        | -        | 100% |      |
+| eiloppang   |          | -        | 20%  |      |
+| happy-jinsu | ✔        | -        | 60%  |      |
+| limjh1      | ✔        | -        | 100% |      |
+| shw619      |          | -        | 0%   |      |
 
 
 
