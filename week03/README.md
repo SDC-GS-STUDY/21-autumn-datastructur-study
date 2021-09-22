@@ -43,14 +43,14 @@
 
 📌 소스파일 제목 양식 :  깃헙아이디\_문제번호.c  (예시:  yeram522_1000.c )
 
-| 필수 | 사이트 | 번호  | 문제                                                         | 답안 |
-| ---- | ------ | ----- | ------------------------------------------------------------ | ---- |
-| ✔    | 백준   | 10870 | <sub>![Bronze2]</sub> [피보나치 수 5](https://www.acmicpc.net/problem/10870) |      |
-| ✔    | 백준   | 2581  | <sub>![Silver5]</sub>  [소수](https://www.acmicpc.net/problem/2581) |      |
-| ✔    | 백준   | 17478 | <sub>![Silver5]</sub> [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) |      |
-| ✔    | 백준   | 17262 | <sub>![Silver5]</sub> [팬덤이 넘쳐흘러](https://www.acmicpc.net/problem/17262) |      |
-|      | 백준   | 9095  | <sub>![Silver3]</sub> [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |      |
-|      | 백준   | 11729 | <sub>![Silver3]</sub> [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |      |
+| 필수 | 사이트 | 번호  | 문제                                                         | 답안                                                         |
+| ---- | ------ | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ✔    | 백준   | 10870 | <sub>![Bronze2]</sub> [피보나치 수 5](https://www.acmicpc.net/problem/10870) | [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_10870.c) [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/limjh1/limjh1_10870_1.c) |
+| ✔    | 백준   | 2581  | <sub>![Silver5]</sub>  [소수](https://www.acmicpc.net/problem/2581) | [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_2581.c) |
+| ✔    | 백준   | 17478 | <sub>![Silver5]</sub> [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) |                                                              |
+| ✔    | 백준   | 17262 | <sub>![Silver5]</sub> [팬덤이 넘쳐흘러](https://www.acmicpc.net/problem/17262) |                                                              |
+|      | 백준   | 9095  | <sub>![Silver3]</sub> [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |                                                              |
+|      | 백준   | 11729 | <sub>![Silver3]</sub> [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |                                                              |
 
 
 
