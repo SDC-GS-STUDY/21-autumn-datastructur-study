@@ -50,7 +50,7 @@
 |      | 백준   | 2890  | <sub>![Bronze2]</sub> [카약](https://www.acmicpc.net/problem/2890) |      |
 | ✔    | 백준   | 2891  | <sub>![Silver5]</sub> [카약과 강풍](https://www.acmicpc.net/problem/2891) |      |
 | ✔    | 백준   | 1417  | <sub>![Silver5]</sub> [국회의원 선거](https://www.acmicpc.net/problem/1417) |      |
-| ✔    | 백준   | 17521 | <sub>![Silver5]</sub> [Byte Coin](https://www.acmicpc.net/problem/17521) |      |
+|     | 백준   | 17521 | <sub>![Silver5]</sub> [Byte Coin](https://www.acmicpc.net/problem/17521) |      |
 | ✔    | 백준   | 1065  | <sub>![Silver5]</sub> [한수](https://www.acmicpc.net/problem/1065) |      |
 | ✔    | 백준   | 11399 | <sub>![Silver3]</sub> [ATM](https://www.acmicpc.net/problem/11399) |      |
 
