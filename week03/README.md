@@ -45,10 +45,10 @@
 
 | 필수 | 사이트 | 번호  | 문제                                                         | 답안                                                         |
 | ---- | ------ | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ✔    | 백준   | 10870 | <sub>![Bronze2]</sub> [피보나치 수 5](https://www.acmicpc.net/problem/10870) | [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_10870.c) [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/limjh1/limjh1_10870_1.c) |
-| ✔    | 백준   | 2581  | <sub>![Silver5]</sub>  [소수](https://www.acmicpc.net/problem/2581) | [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_2581.c) [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/limjh1/limjh1_2581.c) |
-| ✔    | 백준   | 17478 | <sub>![Silver5]</sub> [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/limjh1/limjh1_17478.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_17478.c) |
-| ✔    | 백준   | 17262 | <sub>![Silver5]</sub> [팬덤이 넘쳐흘러](https://www.acmicpc.net/problem/17262) | [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_17262.c) |
+| ✔    | 백준   | 10870 | <sub>![Bronze2]</sub> [피보나치 수 5](https://www.acmicpc.net/problem/10870) | [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_10870.c) [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/limjh1/limjh1_10870_1.c) [가연](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/eiloppang/eiloppang_10870.cpp) [수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/happy-jinsu/happy-jinsu_10870.cpp) [혜원](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/shw619/shw619_10870.c) |
+| ✔    | 백준   | 2581  | <sub>![Silver5]</sub>  [소수](https://www.acmicpc.net/problem/2581) | [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_2581.c) [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/limjh1/limjh1_2581.c) [가연](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/eiloppang/eiloppang_2581.cpp) [수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/happy-jinsu/happy-jinsu_2581.cpp) |
+| ✔    | 백준   | 17478 | <sub>![Silver5]</sub> [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/limjh1/limjh1_17478.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_17478.c) [가연](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/eiloppang/eiloppang_17478.cpp) [혜원](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/shw619/shw619_17478.c) |
+| ✔    | 백준   | 17262 | <sub>![Silver5]</sub> [팬덤이 넘쳐흘러](https://www.acmicpc.net/problem/17262) | [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/Yeram522/yeram522_17262.c) [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/limjh1/limjh1_17262.c) [가연](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week03/eiloppang/%EB%B0%B1%EC%A4%80%2017262%EB%B2%88%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4.jpg) |
 |      | 백준   | 9095  | <sub>![Silver3]</sub> [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |                                                              |
 |      | 백준   | 11729 | <sub>![Silver3]</sub> [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |                                                              |
 
@@ -58,6 +58,9 @@
 
 📌과제현황
 
-| 이름 | 필기인증 | 연습문제 | 백준 | 출석 |
-| ---- | -------- | -------- | ---- | ---- |
-|      |          |          |      |      |
+| 이름        | 필기인증 | 연습문제 | 백준 | 출석 |
+| ----------- | -------- | -------- | ---- | ---- |
+| Yeram522    | ✔        | ✔        | 100% |      |
+| eiloppang   | ✔        | ✔        | 100% |      |
+| happy-jinsu | ✔        | ✔        | 50%  |      |
+| shw619      | ✔        | ✔        | 50%  |      |
