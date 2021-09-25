@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int FAN(int i);
-int num, a, b,i, sum, MAX = 0, MIN = 100000, sum;
+int num, a, b,i, sum, MAX = 0, MIN = 100000;
 int main(void)
 {
 	scanf("%d", &num);
