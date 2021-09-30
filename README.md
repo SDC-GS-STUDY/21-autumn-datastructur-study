@@ -1,6 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Data-Structure&fontAlign=70&fontAlignY=35&color=gradient)
 
-## 📣 소개 [LINK](https://woolly-lavender-310.notion.site/C-743cb8a5eae34c9da5bafafbe80ea6d0)
+
+## 📣 소개 [LINK](https://woolly-lavender-310.notion.site/C-743cb8a5eae34c9da5bafafbe80ea6d0)    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSDC-GS-STUDY%2F21-autumn-datastructure-study&count_bg=%23BC9DD5&title_bg=%23686868&icon=visualstudiocode.svg&icon_color=%23BB83D5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 홍익대학교 게임학부 게임소프트웨어 전공생들이 만든 자료구조 스터디 Repo입니다.
 - 21년도 2학기 '자료구조' 수업을 듣고 '코딩테스트' 문제를 풀 수 있는 능력을 기르기 위한 스터디 입니다.
