@@ -52,7 +52,7 @@ double recursive(int _n)
 
 `[15]` 
 
-//사진
+![이미지](https://user-images.githubusercontent.com/63442636/135672724-5a44cb93-fcab-4a1e-9c73-8d10fca441ed.png)
 
 `[16]`
 
