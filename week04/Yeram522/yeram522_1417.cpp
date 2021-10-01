@@ -20,7 +20,7 @@ int main()
 	int i = 1;//votes[0]은 언제나 기호1번
 	while (i<N)
 	{
-		if (votes[0] <= votes[i] && votes[i] > 1)
+		if (votes[0] <= votes[i] && votes[i] >= 1)
 		{
 			votes[0]++;
 			votes[i]--;
