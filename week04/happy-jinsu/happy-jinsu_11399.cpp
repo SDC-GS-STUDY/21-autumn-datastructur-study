@@ -19,7 +19,6 @@ int main()
 				time[i] = time[j];
 				time[j] = tmp;
 			}
-	
 		}
 	}
 
@@ -31,6 +30,5 @@ int main()
 		MinTime += sum;
 		sum = 0;
 	}
-
 	printf("%d", MinTime);
 }
