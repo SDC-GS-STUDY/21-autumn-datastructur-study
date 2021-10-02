@@ -18,6 +18,7 @@
 |                      | 빅오 완전 정복                    |[Link](https://www.youtube.com/watch?v=6Iq5iMCVsXA) | eiloppang |
 |                      | 형...재귀함수가 뭐야?              |[Link](https://www.youtube.com/watch?v=RPSVXjcFbvA) | Yeram522 |
 |                      | 재귀함수 구현 할 때 알아두면 좋은 것 |[Link](https://dokhakdubini.tistory.com/190) | Yeram522 |
+|                      | cH 2 주교재 11번 |[Link](https://blog.daum.net/here8now/148) | eiloppang |
 
 ## 📝꿀팁 & 포폴에 도움 되는 링크
 
