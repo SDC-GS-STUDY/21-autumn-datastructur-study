@@ -29,3 +29,9 @@
 | **코딩 테스트** | 대기업 코테 현실 조언 | [Link](https://www.youtube.com/watch?v=ukkLCl9yBvE) | Yeram522 |
 | **DirectX** | 다이렉트X 튜토리얼 설명 | [Link](https://www.youtube.com/watch?v=NTvhVxSC_80) | happy-jinsu |
 | **정신교육** | 예람 피셜 "늙은이의 심금을 울린 글" | [Link](https://www.youtube.com/watch?v=NTvhVxSC_80) | Yeram522 |
+
+## 📝주교재 연습문제 답안
+
+| CHAPTER              | 링크                              |
+| -------------------- | --------------------------------- | 
+| ch 2 | [Link](https://aeunhi99.tistory.com/64?category=986289) |
