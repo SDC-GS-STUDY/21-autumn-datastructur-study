@@ -34,9 +34,10 @@
 | 주차    | 학교 진도 | 주교재       | 부교재                                                       | 백준                                                         | 기간                    | 모임     |
 | :------ | :-------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------- | -------- |
 | week 01 | Ch1       | -            | -                                                            | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week01 ) | 2021.09.06 ~ 2021.09.12 | -        |
-| week 02 | Ch3       | -            | -                                                            | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week02 ) | 2021.09.13 ~ 2021.09.18 | 21.09.18 |
-| week 03 | Ch2,Ch13  | ch1.연습문제 | 📒[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/reference/week3-sub-quests.md) | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week03 ) | 2021.09.19 ~ 2021.09.25 | 21.09.25 |
-| week 04 |           | ch2.연습문제 |                                                              | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week04) | 2021.09.26 ~ 2021.10.02 |          |
+| week 02 | Ch1       | -            | -                                                            | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week02 ) | 2021.09.13 ~ 2021.09.18 | 21.09.18 |
+| week 03 | Ch2       | ch1.연습문제 | 📒[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/reference/week3-sub-quests.md) | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week03 ) | 2021.09.19 ~ 2021.09.25 | 21.09.25 |
+| week 04 | Ch3       | ch2.연습문제 |                                                              | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week04) | 2021.09.26 ~ 2021.10.02 | 21.10.02 |
+| week 05 | Ch4       | ch3.연습문제 |                                                              |                                                              | 2021.10.03 ~ 2021.10.09 |          |
 
 
 
