@@ -37,7 +37,6 @@ int main()
 				Buy += Max - StockPrices[j];
 			}
 		}
-
 		Profit[i] = Buy;
 	}
 
