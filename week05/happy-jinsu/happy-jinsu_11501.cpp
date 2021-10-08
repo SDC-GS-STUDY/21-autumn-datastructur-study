@@ -42,7 +42,7 @@ int main()
 
 	for (i = 0; i < T; i++)
 	{
-		printf("%d\n", &Profit[i]);
+		printf("%d\n", Profit[i]);
 	}
 
 	return 0;
