@@ -3,13 +3,13 @@
 
 int main()
 {
-	int i, j, k, T, N, Buy = 0, Max = 0, StockPrices[1000000] = { 0 }, Profit[1000000] = { 0 };
+	int i, j, k, T, N, Buy = 0, Max = 0, StockPrices[1000] = { 0 };
 
 	scanf("%d", &T);
 	for (i = 0; i < T; i++)
 	{
 		Max = 0;
-		Buy=0;
+		Buy = 0;
 		scanf("%d", &N);
 		for (j = 0; j < N; j++)
 		{
@@ -18,6 +18,7 @@ int main()
 			{
 				Max = StockPrices[j];
 			}
+
 		}
 		for (j = 0; j < N; j++)
 		{
@@ -37,12 +38,7 @@ int main()
 				Buy += Max - StockPrices[j];
 			}
 		}
-		Profit[i] = Buy;
-	}
-
-	for (i = 0; i < T; i++)
-	{
-		printf("%d\n", Profit[i]);
+		printf("%d\n", Buy);
 	}
 
 	return 0;
