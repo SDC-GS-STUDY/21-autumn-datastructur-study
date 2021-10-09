@@ -1,22 +1,21 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <algorithm>
-using namespace std;  // ·±Å¸ÀÓ ¿¡·¯°¡ ³ª¼­ ÀÌ·¸°Ô ÇØ°áÇÔ.
+using namespace std;  // ëŸ°íƒ€ì„ ì—ëŸ¬ê°€ ë‚˜ì„œ ì´ë ‡ê²Œ í•´ê²°í•¨.
 
 int main()
 {
 	int NumberOfRopes, tmp, i, MIN = 0, MAX = 0, Weight;
 	
 	scanf("%d", &NumberOfRopes);
-	int* Rope = (int*)malloc(sizeof(int) * NumberOfRopes); // µ¿ÀûÇÒ´ç
+	int* Rope = (int*)malloc(sizeof(int) * NumberOfRopes); // ë™ì í• ë‹¹
 
-	for (i = 0; i < NumberOfRopes; i++)                    // ÀÔ·Â¹Ş±â
+	for (i = 0; i < NumberOfRopes; i++)                    // ì…ë ¥ë°›ê¸°
 		scanf("%d", &Rope[i]);
 	
-	sort(Rope, Rope + NumberOfRopes);                      // ÀÛÀº ¼ö ºÎÅÍ Á¤·Ä.
-	MIN = 0;                                                 // j ÃÊ±âÈ­.
+	sort(Rope, Rope + NumberOfRopes);                      // ì‘ì€ ìˆ˜ ë¶€í„° ì •ë ¬.
 
-	for (i = NumberOfRopes; i > 0; i--)                    // ÁÙ ¼ö¸¦ ÁÙ¿©°¡¸ç MAX°ª ºñ±³.
+	for (i = NumberOfRopes; i > 0; i--)                    // ì¤„ ìˆ˜ë¥¼ ì¤„ì—¬ê°€ë©° MAXê°’ ë¹„êµ.
 	{
 		Weight = Rope[MIN] * i;
 		MIN++;
@@ -26,6 +25,6 @@ int main()
 	}
 
 	printf("%d",MAX);
-	free(Rope);                                             // ¸Ş¸ğ¸® ÇØÁ¦
+	free(Rope);                                             // ë©”ëª¨ë¦¬ í•´ì œ
 	return 0;
 }
