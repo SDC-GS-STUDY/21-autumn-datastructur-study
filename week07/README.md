@@ -51,13 +51,6 @@
 | 큐   | 백준   | 10845 | <sub>![Silver4]</sub>[큐](https://www.acmicpc.net/problem/10845) |      |
 | 큐   | 백준   | 18258 | <sub>![Silver4]</sub> [큐 2](https://www.acmicpc.net/problem/18258) |      |
 | 큐   | 백준   | 2164  | <sub>![Silver4]</sub>[카드2](https://www.acmicpc.net/problem/2164) |      |
-|      |        |       |                                                              |      |
-|      |        |       |                                                              |      |
-|      |        |       |                                                              |      |
-|      |        |       |                                                              |      |
-|      |        |       |                                                              |      |
-|      |        |       |                                                              |      |
-|      |        |       |                                                              |      |
 
 
 
