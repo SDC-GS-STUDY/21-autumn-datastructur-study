@@ -19,6 +19,7 @@
 |                      | 형...재귀함수가 뭐야?              |[Link](https://www.youtube.com/watch?v=RPSVXjcFbvA) | Yeram522 |
 |                      | 재귀함수 구현 할 때 알아두면 좋은 것 |[Link](https://dokhakdubini.tistory.com/190) | Yeram522 |
 |                      | cH 2 주교재 11번 |[Link](https://blog.daum.net/here8now/148) | eiloppang |
+|                      | 스택과 큐 (시간복잡도 설명에 참고) |[Link](https://velog.io/@sbinha/%EC%8A%A4%ED%83%9D-%ED%81%90) | eiloppang |
 
 ## 📝꿀팁 & 포폴에 도움 되는 링크
 
