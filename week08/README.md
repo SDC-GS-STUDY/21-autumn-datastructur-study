@@ -43,17 +43,17 @@
 
 📌 소스파일 제목 양식 :  깃헙아이디\_문제번호.c  (예시:  yeram522_1000.c )
 
-| 필수 | 분류          | 사이트 | 번호  | 문제                                                         | 답안 |
-| ---- | ------------- | ------ | ----- | ------------------------------------------------------------ | ---- |
-| ✔    | 후위표기식    | 백준   | 1935  | <sub>![Silver3]</sub>[후위 표기식2](https://www.acmicpc.net/problem/1935) |      |
-|      | 수식괄호의 쌍 | 백준   | 9012  | <sub>![Silver4]</sub> [괄호](https://www.acmicpc.net/problem/9012) |      |
-|      | 수식괄호의 쌍 | 백준   | 11899 | <sub>![Silver4]</sub>[괄호 끼워넣기](https://www.acmicpc.net/problem/11899) |      |
-| ✔    | 수식괄호의 쌍 | 백준   | 2504  | <sub>![Silver2]</sub>[괄호의 값](https://www.acmicpc.net/problem/2504) |      |
-| ✔    | 원형 큐       | 백준   | 1158  | <sub>![Silver5]</sub>[요세푸스 문제](https://www.acmicpc.net/problem/1158) |      |
-| ✔    | 스택          | 백준   | 3986  | <sub>![Silver4]</sub>[좋은 단어](https://www.acmicpc.net/problem/3986) |      |
-| ✔    | 순환          | 백준   | 11444 | <sub>![Gold3]</sub>[피보나치 수 6](https://www.acmicpc.net/problem/11444) |      |
-|      | 순환          | 백준   | 1780  | <sub>![Silver2]</sub>[종이의 개수](https://www.acmicpc.net/problem/1780) |      |
-|      | 순환          | 백준   | 11729 | <sub>![Silver2]</sub>[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |      |
+| 필수 | 분류          | 사이트 | 번호  | 문제                                                         | 답안                                                         |
+| ---- | ------------- | ------ | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ✔    | 후위표기식    | 백준   | 1935  | <sub>![Silver3]</sub>[후위 표기식2](https://www.acmicpc.net/problem/1935) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/limjh1/limjh1_1935.c) [가연](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/eiloppang/eiloppang_1935.cpp) [혜원](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/shw619/shw619_1935.c) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/Yeram522/yeram422_1935.cpp) |
+|      | 수식괄호의 쌍 | 백준   | 9012  | <sub>![Silver4]</sub> [괄호](https://www.acmicpc.net/problem/9012) | [수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/happy-jinsu/happy-jinsu_9012.cpp) |
+|      | 수식괄호의 쌍 | 백준   | 11899 | <sub>![Silver4]</sub>[괄호 끼워넣기](https://www.acmicpc.net/problem/11899) |                                                              |
+| ✔    | 수식괄호의 쌍 | 백준   | 2504  | <sub>![Silver2]</sub>[괄호의 값](https://www.acmicpc.net/problem/2504) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/commit/4636e7bfc0904163091aab6efff99e2fd9aebaeb) [가연](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/eiloppang/eiloppang_2504.cpp) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/Yeram522/yeram522_2504.cpp) |
+| ✔    | 원형 큐       | 백준   | 1158  | <sub>![Silver5]</sub>[요세푸스 문제](https://www.acmicpc.net/problem/1158) | [재혁 ](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/commit/4636e7bfc0904163091aab6efff99e2fd9aebaeb)[가연](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/eiloppang/eiloppang_1158.cpp) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/commit/dccf857fbe3caed20f2e96644766ba5e3129eb14) |
+| ✔    | 스택          | 백준   | 3986  | <sub>![Silver4]</sub>[좋은 단어](https://www.acmicpc.net/problem/3986) | [재혁](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/limjh1/limjh1_3986.c) [가연](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/limjh1/limjh1_3986.c) [수진](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/happy-jinsu/happy-jinsu_3986.cpp) [예람](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/blob/main/week08/Yeram522/yeram522_3986.cpp) |
+| ✔    | 순환          | 백준   | 11444 | <sub>![Gold3]</sub>[피보나치 수 6](https://www.acmicpc.net/problem/11444) |                                                              |
+|      | 순환          | 백준   | 1780  | <sub>![Silver2]</sub>[종이의 개수](https://www.acmicpc.net/problem/1780) |                                                              |
+|      | 순환          | 백준   | 11729 | <sub>![Silver2]</sub>[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |                                                              |
 
 📌과제현황
 
