@@ -38,6 +38,7 @@ double dequeue(QueueType* q)
 int main(void)
 {
 	double inputCount = 0;
+	double temp = 0;
 
 	scanf("%lf", &inputCount);
 
@@ -48,15 +49,15 @@ int main(void)
 	{
 		enqueue(&q, i + 1);
 	}
-	while (1)
-	{
-		double temp = 0;
+	while (q.front != q.rear)
+	{	
+		temp = dequeue(&q);
 
-		dequeue(&q);
+		if (q.front == q.rear)
+			break;
 
 		if (q.front + 1 == q.rear) {
-			temp = dequeue(&q);
-			printf("%.lf\n", temp);
+			temp = dequeue(&q);			
 			break;
 		}
 		else {
@@ -65,6 +66,8 @@ int main(void)
 		}	
 
 	}
+
+	printf("%.lf\n", temp);
 
 	return 0;
 }
