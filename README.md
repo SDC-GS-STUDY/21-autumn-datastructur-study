@@ -40,7 +40,9 @@
 | week 05 | Ch4       | ch3.연습문제        |                                                              | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week05) | 2021.10.03 ~ 2021.10.09 | 21.10.10 |
 | week 06 | 시험기간  | -                   | -                                                            | -                                                            | -                       | -        |
 | week 07 | Ch5       | ch4,5.연습문제      |                                                              | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week07) | 2021.10.16 ~ 2021.10.23 | 21.10.23 |
-| week 08 | Ch6       | ch1-5.연습문제 복습 |                                                              | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week08) | 2021.10.24 ~ 2021.10.30 |          |
+| week 08 | Ch6       | ch1-5.연습문제 복습 |                                                              | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week08) | 2021.10.24 ~ 2021.10.30 | 21.10.30 |
+| week 09 | -         | 중간고사            |                                                              | 📄[문제보기](https://github.com/SDC-GS-STUDY/21-autumn-datastructure-study/tree/main/week09) | 2021.10.30 ~ 2021.11.06 | 21.11.06 |
+| week 10 | Ch6       | ch6.연습문제        |                                                              |                                                              | 2021.11.06 ~ 2021.11.13 |          |
 
 
 
